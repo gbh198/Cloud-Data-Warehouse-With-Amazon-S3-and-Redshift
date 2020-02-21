@@ -37,7 +37,7 @@ All the files available in these two S3 buckets are in JSON format. For example:
 
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
 
-![Image of Yaktocat](https://github.com/gbh198/Cloud-Data-Warehouse-using-S3-and-Redshift/blob/master/log-data.png)
+![Image of Yaktocat](https://github.com/gbh198/Cloud-Data-Warehouse-With-Amazon-S3-and-Redshift/blob/master/log-data.png)
 
 ## Setting up your AWS
 
