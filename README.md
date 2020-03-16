@@ -72,6 +72,8 @@ The Fact Table will answer a business question. In case of Sparkify, Fact Tables
 
 There are also two staging tables:  One for SONG data and another for LOG data. Staging stables is the destination of COPY commands and, at the same time, the departure of INSERT commands. 
 
+![Image of Yaktocat](https://github.com/gbh198/Cloud-Data-Warehouse-With-Amazon-S3-and-Redshift/blob/master/Star%20Schema.png)
+
 ## Project Template
  
 -	**create_tables.py** – Dropping old tables and Creating new ones
